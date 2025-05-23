@@ -1,2 +1,5 @@
-# Distributed-Ray-Tracing
-This was my project for the Computer Graphics course. I've implemented various fuzzy phenomenon like Antialiasing, Depth of Field, soft shadows and Motion Blur using C++, ImGUI, OpenGL 
+
+![ReportPage1](readme_images/CG_Project_Jahnvi_team8-1.png)
+![ReportPage2](readme_images/CG_Project_Jahnvi_team8-2.png)
+![ReportPage3](readme_images/CG_Project_Jahnvi_team8-3.png)
+![ReportPage4](readme_images/CG_Project_Jahnvi_team8-4.png)
